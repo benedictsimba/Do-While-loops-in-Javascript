@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head></head>
+
+<body>
+    <script>
+        <!--
+        var count = 0
+        document.write("Start of Do-While loop")
+        document.write("<br>-_-_-_-_-_-_-_-_-_-_-_-_-_-_<br>")
+        do {
+            document.write("Current Count is > " + count + "<br>")
+            count++
+        }
+        while (count <= 15);
+        document.write("<br> End of Do-while loop")
+        //-->
+    </script>
+
+
+
+</body>
+
+</html>
